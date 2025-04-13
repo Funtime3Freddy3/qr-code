@@ -1,4 +1,6 @@
 <?php
+//Author: Funtime3Freddy3
+//Version: v0.0.1
 require_once('vendor/autoload.php');
 use Endroid\QrCode\QrCode;
 use Endroid\QrCode\Writer\PngWriter;
