@@ -1,6 +1,10 @@
 <?php
-//Author: Funtime3Freddy3
-//Version: v0.0.1
+/**
+ * Project: QR Code Generator
+ * Author: Funtime3Freddy3
+ * Version: v0.0.1
+ * License: MIT
+ */
 require_once('vendor/autoload.php');
 use Endroid\QrCode\QrCode;
 use Endroid\QrCode\Writer\PngWriter;
