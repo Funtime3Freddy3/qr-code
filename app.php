@@ -21,9 +21,6 @@ if($_GET['download'] == '1') {
     option.selected {
         display: block;
     }
-    select {
-        width: 100%;
-    }
 </style>
 <form>
     <h1 class="title">QR Code Generator</h1>
