@@ -17,4 +17,4 @@ Copyright (c) 2025 Funtime3Freddy3
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction. Still the author owns the copyright, you, the developer can make changes and fix bugs and add improvements. Any bugs and improvements can be sended to me at: contact@funtime3freddy3.com
+in the Software without restriction. Still the author owns the copyright, you, the developer/consumer can make changes, such as fix bugs and add improvements. Any bugs and improvements can be sended to me at: contact@funtime3freddy3.com
