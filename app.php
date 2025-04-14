@@ -90,7 +90,7 @@ if($_GET['download'] == '1') {
         } else if(memorizedMode == 3) {
             QRText = `WIFI:T:${QRCodeVar3.value};S:${QRCodeVar4.value};P:${QRCodeVar5.value};;`;
         }
-        fetch('/./../tools/qr-code/download', {
+        fetch('app.php?download=1', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/x-www-form-urlencoded',
