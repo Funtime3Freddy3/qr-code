@@ -2,7 +2,7 @@ A free and open-source QR code generator created by **Funtime3Freddy3**.
 Feel free to use, modify, and improve it!
 ## Features
 - Generate QR codes (Text, URL, Wi-Fi)
-- Custom size support
+- Custom size support (Soon)
 - Instant download
 ## Installation
 Requires Composer installed and after that, paste this command for installing the vendor autoload.php:</br>
