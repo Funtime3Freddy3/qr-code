@@ -9,7 +9,7 @@ Requires Composer installed and after that, paste this command for installing th
 'composer require endroid/qr-code'</br>
 Clone the repo and place it in your PHP server directory (e.g., XAMPP/htdocs).
 ## Preview
-<a href="https://funtime3freddy3.com/tools/qr-code" target="_blank">Click</a>
+<a href="https://funtime3freddy3.com/tool/qr-code" target="_blank">Click</a>
 ## License
 MIT License
 
